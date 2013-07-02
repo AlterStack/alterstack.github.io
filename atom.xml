@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[AlterStack]]></title>
   <link href="http://alterstack.github.io/atom.xml" rel="self"/>
   <link href="http://alterstack.github.io/"/>
-  <updated>2013-07-02T18:34:16+04:00</updated>
+  <updated>2013-07-02T18:48:13+04:00</updated>
   <id>http://alterstack.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alexander (4lex1v) Ivanov]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
